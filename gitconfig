@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = costa141@hotmail.co.uk
+	name = Eli Da Costa
